@@ -52,7 +52,7 @@ A fun project integrating the **GIPHY API** to search and browse GIFs.
 - **Frontend**: React, Next.js(novice) Tailwind CSS, Vite  
 - **Languages**: TypeScript, JavaScript  
 - **Backend / Cloud**: Supabase (Auth + Postgres),Firebase ,  APIs  , Node.js(Novice)
-- **UX**: Responsive design, fast interactions, inline editing  
+- **UX**: Responsive design, fast interactions
 - **Other**: GitHub Pro, Vercel Deployments  
 
 ---
