@@ -1,6 +1,6 @@
 # Hi there, I'm **Antani Kalchev** 👋
 
-**Frontend Developer (React & TypeScript)** from Sofia, Bulgaria.  
+**Frontend/Fullstack Developer (React & TypeScript)** from Sofia, Bulgaria.  
 I love building apps that feel fast, intuitive, and polished.  
 
 ---
